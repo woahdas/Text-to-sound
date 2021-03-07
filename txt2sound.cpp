@@ -25,7 +25,7 @@ int main()
 			char current = targetfile[i];
 			if (current = 'a')
 			{
-				//I AM NOT WRITING OUT E V E R Y T H I N G , you get the logic, ok?
+				// you get the logic, ok?
 				//PlaySound("whatever", NULL, SND_SYNC);
 			}
 			if (targetfile.eof())
